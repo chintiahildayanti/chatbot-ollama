@@ -10,7 +10,7 @@
 1. Clone the repository:
 
 ```
-git clone https://github.com/ThomasJanssen-tech/Ollama-Chatbot.git
+git clone https://github.com/chintiahildayanti/chatbot-ollama.git
 cd Ollama-Chatbot
 ```
 
