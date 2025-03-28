@@ -39,5 +39,5 @@ pip install -r requirements.txt
 2. Execute the following command:
 
 ```
-streamlit run 4_chatbot_ollama.py
+streamlit run chatbot_ollama.py
 ```
